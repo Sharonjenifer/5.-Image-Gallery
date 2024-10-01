@@ -4,7 +4,7 @@ This project is a single-page image gallery created using HTML and basic CSS. It
 
 **How to view:**
 
-
+https://sharonjenifer.github.io/5.-Image-Gallery/
 
 **Features:**
 
